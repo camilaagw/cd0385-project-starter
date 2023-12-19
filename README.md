@@ -1,3 +1,3 @@
-## You will find everything you need in the /Project folder
+# Predict Bike Sharing Demand with AutoGluon and Sagemaker
 
-Test.
+See the `project` directory.
